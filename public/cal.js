@@ -7,7 +7,7 @@ const clearBtn = document.querySelector("[data-all-clear]");
 const deleteBtn = document.querySelector("[data-delete]");
 
 var socket;
-socket = io.connect("http://localhost:3000");
+socket = io.connect(window.location.href);
 
 socket.on("serverMessage", (dataArray) => {
   document.getElementById("msgs").innerHTML =
