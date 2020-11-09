@@ -9,14 +9,23 @@
 ### Technolgies Used:
 
 . NodeJS
+
 . HTML
+
 . CSS
+
 . JavaScript
+
 . Deployed on Heroku
 
 ### Screenshots:
 
+1. ![](https://github.com/sandeepsalkuti/SezzleHackathon/blob/main/images/1.JPG)
 
+2. ![](https://github.com/sandeepsalkuti/SezzleHackathon/blob/main/images/1.JPG)
+
+### References:
 
 Heroku: https://sezzlehackathon.herokuapp.com/
+
 Youtube: https://youtu.be/mrk1ElQhh_U
